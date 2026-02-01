@@ -11,4 +11,4 @@ main:
       url: "https://www.linkedin.com/in/shayaanqureshi25/"
     - label: "Resume (PDF)"
       icon: "fas fa-file-pdf"
-      url: "/files/resume.pdf"
+      url: "/files/Resume.pdf"
