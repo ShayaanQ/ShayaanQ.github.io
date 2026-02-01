@@ -20,7 +20,7 @@ author_profile: false
 
     <p style="font-size: 1.1rem; max-width: 700px;">
       I am a Computer Science student at the <strong>University of Houston</strong>, expected to graduate in
-      <strong>Fall 2026</strong>. I’m interested in <strong>software engineering</strong>, <strong>systems</strong>,
+      <strong>Fall 2026</strong>. I’m particularly interested in <strong>software engineering</strong>, <strong>systems</strong>,
       and building <strong>real-world applications</strong>.
     </p>
   </div>
@@ -39,6 +39,6 @@ author_profile: false
 - [Resume (PDF)](/files/resume.pdf)
 
 ## Highlights
-- Built and maintained web projects using modern tools and clean engineering practices
-- Comfortable with Git/GitHub workflows and collaborative development
+- Built and maintained numerous web projects using modern tools and clean coding practices
+- Comfortable with Git/GitHub workflows and collaborative development tools
 - Actively building skills through coursework and hands-on projects
