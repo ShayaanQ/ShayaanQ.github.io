@@ -1,0 +1,14 @@
+/* Bigger author profile avatar */
+.sidebar .author__avatar,
+.page__inner-wrap .author__avatar {
+  width: 160px !important;
+}
+
+.sidebar .author__avatar img,
+.page__inner-wrap .author__avatar img {
+  max-width: 160px !important;
+  width: 160px !important;
+  height: 160px !important;
+  border-radius: 50%;
+  object-fit: cover;
+}
