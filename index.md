@@ -39,6 +39,6 @@ author_profile: false
 - [Resume (PDF)](/files/Resume.pdf)
 
 ## Highlights
-- Built and maintained numerous web projects using modern tools and clean coding practices
-- Comfortable with Git/GitHub workflows and collaborative development tools
-- Actively building skills through coursework and hands-on projects
+- Developed and maintained a number of websites using clean coding techniques and contemporary tools.
+- Knowledgeable of collaborative development tools and Git/GitHub workflows
+- Developing skills through academics and practical projects
