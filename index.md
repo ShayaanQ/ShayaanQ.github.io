@@ -36,7 +36,7 @@ author_profile: false
 ## Links
 - [UH Computer Science Department](https://cs.uh.edu)
 - [LinkedIn](https://www.linkedin.com/in/shayaanqureshi25/)
-- [Resume (PDF)](/files/resume.pdf)
+- [Resume (PDF)](/files/Resume.pdf)
 
 ## Highlights
 - Built and maintained numerous web projects using modern tools and clean coding practices
