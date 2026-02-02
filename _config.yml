@@ -4,18 +4,18 @@ description: "Computer Science student at the University of Houston (Expected Fa
 url: ""
 baseurl: ""
 
-
 google_analytics: G-0H159VRHVQ
+
+minimal_mistakes_skin: "dark"
 
 defaults:
   - scope:
       path: ""
     values:
-      author_profile: true
+      author_profile: false
 
 custom_css:
   - /assets/css/custom.css
-
 
 footer:
   links: []

@@ -1,44 +1,63 @@
 ---
 layout: single
-title: "About Me"
+title: ""
 permalink: /
 author_profile: false
 ---
 
-<div style="display: flex; align-items: center; gap: 24px; margin-top: 20px;">
+<link rel="stylesheet" href="/assets/css/custom.css?v=2">
 
-  <img
-    src="/images/headshot.jpg"
-    alt="Shayaan Qureshi"
-    style="width: 160px; height: 160px; border-radius: 50%; object-fit: cover;"
-  />
+<div class="sq-wrap">
 
-  <div>
-    <h1 style="margin-bottom: 8px;">
-      Shayaan Qureshi
-    </h1>
+  <p class="sq-kicker">Computer Science Student</p>
 
-    <p style="font-size: 1.1rem; max-width: 700px;">
-      I am a Computer Science student at the <strong>University of Houston</strong>, expected to graduate in
-      <strong>Fall 2026</strong>. I’m particularly interested in <strong>software engineering</strong>, <strong>systems</strong>,
-      and building <strong>real-world applications</strong>.
+  <h1 class="sq-hero">
+    Hello, I'm <span>Shayaan Q</span><br>
+    from Houston
+  </h1>
+
+  <div class="sq-intro">
+    <img class="sq-headshot" src="/images/headshot.jpg" alt="Shayaan Qureshi" />
+    <p>
+      My name is Shayaan Qureshi, a passionate developer and aspiring software engineer residing in Houston, Texas.
+      Welcome to my personal website!
     </p>
   </div>
 
+  <h2 class="sq-section-title">About Me</h2>
+
+  <p>
+    At the University of Houston, I am a Junior majoring in computer science.
+    I have been fascinated by technology and its ability to address complicated issues since I was young.
+    Because of this enthusiasm, I decided to study computer science so that I could combine my passion for coding with my aim to
+    change the world through cutting-edge software solutions.
+  </p>
+
+  <p>
+    For me, coding is more than simply a hobby; it is my actual passion.
+    I get a great deal of satisfaction and excitement from using code to make ideas come to life.
+    I regularly push myself to learn new ideas and abilities as I work to increase my knowledge and proficiency in a variety of
+    programming languages and technologies.
+  </p>
+
+  <hr class="sq-divider" />
+
+  <h2 class="sq-section-title">Projects</h2>
+
+  <ul class="sq-list">
+    <li><strong>Netflix Clone</strong> — <a href="https://github.com/ShayaanQ/Netflix-Clone">GitHub</a></li>
+    <li><strong>SynthSpeak</strong> — <a href="https://github.com/ShayaanQ/SynthSpeak">GitHub</a></li>
+    <li><strong>CasualConf</strong> — <a href="https://github.com/ShayaanQ/CasualConf">GitHub</a></li>
+  </ul>
+
+  <hr class="sq-divider" />
+
+  <h2 class="sq-section-title">Links</h2>
+
+  <ul class="sq-list">
+    <li><a href="https://www.linkedin.com/in/shayaan-qureshi-257725251/">LinkedIn</a></li>
+    <li><a href="/files/Resume.pdf">Resume (PDF)</a></li>
+    <li><a href="https://cs.uh.edu">UH Computer Science Department</a></li>
+  </ul>
+
 </div>
-
----
-
-## Education
-- **University of Houston**  
-  B.S. in Computer Science *(Expected Fall 2026)*
-
-## Links
-- [UH Computer Science Department](https://cs.uh.edu)
-- [LinkedIn](https://www.linkedin.com/in/shayaanqureshi25/)
-- [Resume (PDF)](/files/Resume.pdf)
-
-## Highlights
-- Developed and maintained a number of websites using clean coding techniques and contemporary tools.
-- Knowledgeable of collaborative development tools and Git/GitHub workflows
-- Developing skills through academics and practical projects
